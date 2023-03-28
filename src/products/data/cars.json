@@ -1,0 +1,112 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "model": "Corolla",
+      "year": 2022,
+      "brand": "Toyota",
+      "price": 22000,
+      "photo": "https://www.toyota.com.co/wp-content/uploads/2020/08/3.-PLATA-METALICO.jpg",
+      "specifications": "1.8L 4-cylinder,CVT,Gasoline,139,Front-wheel drive"
+    },
+    {
+      "id": 2,
+      "model": "Camry",
+      "year": 2022,
+      "brand": "Toyota",
+      "price": 27000,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/b/bd/2022_Toyota_Camry_Hybrid_XLE_in_Midnight_Black_Metallic%2C_Front_Right%2C_12-25-2021.jpg",
+      "specifications": "2.5L 4-cylinde,8-speed automatic,Gasoline,203,Front-wheel drive"
+    },
+    {
+      "id": 3,
+      "model": "Accord",
+      "year": 2022,
+      "brand": "Honda",
+      "price": 28000,
+      "photo": "https://hips.hearstapps.com/hmg-prod/images/dsc00620-1677186777.jpg?crop=0.606xw:0.680xh;0.298xw,0.260xh&resize=640:*",
+      "specifications": "1.5L 4-cylinde,8-speed CVT,Gasoline,192,Front-wheel drive"
+    },
+    {
+      "id": 4,
+      "model": "Civic",
+      "year": 2022,
+      "brand": "Honda",
+      "price": 24000,
+      "photo": "https://imgd.aeplcdn.com/0x0/n/cw/ec/27074/civic-exterior-right-front-three-quarter-148155.jpeg",
+      "specifications": "1.5L 4-cylinde,8-speed CVT,Gasoline,180,Front-wheel drive"
+    },
+    {
+      "id": 5,
+      "model": "CX-5",
+      "year": 2022,
+      "brand": "Mazda",
+      "price": 28000,
+      "photo": "https://www.mazda.com.co/globalassets/cars/cx-5/360/exterior/touring-at-2.0l/plata/01.jpg",
+      "specifications": "2.5L SKYACTIV-G Engine, 187 Horsepower, AWD"
+    },
+    {
+      "id": 6,
+      "model": "Mazda6",
+      "year": 2022,
+      "brand": "Mazda",
+      "price":  30000,
+      "photo": "https://www.motor.com.co/__export/1670615450136/sites/motor/img/2022/12/09/2022-mazda6-sports-appearance-package-1.jpg_1195684365.jpg",
+      "specifications": "2.5L SKYACTIV-G Engine, 227 Horsepower, FWD"
+    },
+    {
+      "id": 7,
+      "model": "CX-9",
+      "year": 2022,
+      "brand": "Mazda",
+      "price": 35000,
+      "photo": "https://www.mazda.com.co/globalassets/cars/cx-9/360/plata-360/mazda-cx-9_fotos_exteriores_grand-touring-signature_06_ext_plata-estelaer.jpg",
+      "specifications": "2.5L SKYACTIV-G Engine, 250 Horsepower, AWD"
+    },
+    {
+      "id": 8,
+      "model": "MX-5 Miata",
+      "year": 2022,
+      "brand": "Mazda",
+      "price": 27000,
+      "photo": "https://cdn1.mecum.com/auctions/fl0123/fl0123-539109/images/r785fl23cd01-1669052801089@2x.jpg?1670335351000",
+      "specifications": "2.0L SKYACTIV-G Engine, 181 Horsepower, RWD"
+    },
+    {
+      "id": 9,
+      "model": "Equinox",
+      "year": 2022,
+      "brand": "Chevrolet",
+      "price": 26000,
+      "photo": "https://media.ed.edmunds-media.com/chevrolet/equinox/2022/oem/2022_chevrolet_equinox_4dr-suv_premier_fq_oem_1_1280.jpg",
+      "specifications": "1.5L Turbo Engine, 170 Horsepower, FWD"
+    },
+    {
+      "id": 10,
+      "model": "Blazer",
+      "year": 2022,
+      "brand": "Chevrolet",
+      "price": 32000,
+      "photo": "https://www.chevrolet.com.co/content/dam/chevrolet/south-america/colombia/espanol/index/crossovers-and-suvs/blazer-drp/desempeno/desempeno-blazer-rs-01.jpg?imwidth=960",
+      "specifications": "2.0L Turbo Engine, 230 Horsepower, FWD"
+    },
+    {
+      "id": 11,
+      "model": "Traverse",
+      "year": 2022,
+      "brand": "Chevrolet",
+      "price": 36000,
+      "photo": "https://www.chevrolet.com.co/content/dam/chevrolet/south-america/colombia/espanol/index/crossovers-and-suvs/2022/traverse/colorizer/2022-colorizer-traverse-04.jpg?imwidth=960",
+      "specifications": "3.6L V6 Engine, 310 Horsepower, AWD"
+    },
+    {
+      "id": 12,
+      "model": "Corvette",
+      "year": 2022,
+      "brand": "Chevrolet",
+      "price": 60000,
+      "photo": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/vdc-collections/2023/perfomance/corvette/01-images/conv/2023-corvette-1yc67-2lt-gph-trimselector.png?imwidth=960",
+      "specifications": "6.2L V8 Engine, 495 Horsepower, RWD"
+    }
+  ]
+}
