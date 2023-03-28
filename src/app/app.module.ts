@@ -3,7 +3,6 @@ import { BrowserModule } from '@angular/platform-browser';
 import { RouterModule, Routes } from '@angular/router';
 import { EffectsModule } from '@ngrx/effects';
 import { StoreModule } from '@ngrx/store';
-import {StoreDevtoolsModule} from '@ngrx/store-devtools'
 
 import { AppComponent } from './containers/app/app.component';
 
@@ -23,8 +22,7 @@ export const ROUTES: Routes = [
     BrowserModule,
     RouterModule.forRoot(ROUTES),
     StoreModule.forRoot({}),
-    EffectsModule.forRoot([]),
-    StoreDevtoolsModule.instrument()
+    EffectsModule.forRoot([])
   ],
   providers: [],
   bootstrap: [AppComponent]
